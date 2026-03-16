@@ -1,20 +1,21 @@
-<h1 align="center">Bem vindo ao meu github!</h1>
+<# 👋 Olá, sou Luis Gustavo
 
-###
+## 🎓 Curso:
+- **Curso:** DS
+- **Componente ou conteúdo que mais gostei:** Programaçao Grafica
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-</div>
+## 🧑‍💻 Linguagens que vamos trabalhar este ano:
+- Python
+- JavaScript
+- HTML5
+- CSS
 
-###
+## 🎨 Hobby:
+- Jogar e escutar musica
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+---
 
-###
+### 🚀 Vamos juntos aprender e crescer! 💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gust4205 /Gust4205 /output/pacman-contribution-graph-dark.svg">
